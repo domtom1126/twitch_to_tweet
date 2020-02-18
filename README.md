@@ -1,0 +1,1 @@
+This app allows a user to type in the streamer name and if they are live the terminal will return if the user is live or not. If the user is live then a tweet is sent out. If the user is not live, returns "not live".
